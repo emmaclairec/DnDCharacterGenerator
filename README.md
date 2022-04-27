@@ -9,7 +9,7 @@ I (Emma) really struggled making my character sheet the first time I attempted t
 ## Deviations from the Handbook
 
 Due to time constraints and trying to make things intentionally terrible, these are some of the changes we made:
- - Dropping thigh highest rolls for generating ability scores rather than dropping the lowest.
+ - Dropping the highest rolls for generating ability scores rather than dropping the lowest.
  - Hard coding values including speed and alignment.
  - Starting everyone with negative gold.
  - A bunch of other stuff, probably.
